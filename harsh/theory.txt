@@ -1,0 +1,17 @@
+procedural pro. lan.
+functional pro. lan.
+object orianted
+scripting
+logic pro.
+
+
+what is bug
+
+
+types of programming languages
+1. low-level programming language
+2. high- level programming language
+i. procedural orianted programming language
+ii. object orianted programming language
+iii. natural language
+3.middle-level programming language
